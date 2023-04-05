@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/My-App-Music/static/css/main.5a4f0edb.css",
+    "main.js": "/My-App-Music/static/js/main.febc4f7f.js",
+    "static/js/787.cda65a0b.chunk.js": "/My-App-Music/static/js/787.cda65a0b.chunk.js",
+    "static/media/loops4.wav": "/My-App-Music/static/media/loops4.3963b0dd94d9e53a93bb.wav",
+    "static/media/loops1.wav": "/My-App-Music/static/media/loops1.0769791a49442d876105.wav",
+    "static/media/loops2.wav": "/My-App-Music/static/media/loops2.325d5493424fa4a07962.wav",
+    "static/media/loops3.wav": "/My-App-Music/static/media/loops3.267774cb6c66cf966de0.wav",
+    "static/media/double-note-two.png": "/My-App-Music/static/media/double-note-two.b0a426a0067373c85fd7.png",
+    "index.html": "/My-App-Music/index.html",
+    "main.5a4f0edb.css.map": "/My-App-Music/static/css/main.5a4f0edb.css.map",
+    "main.febc4f7f.js.map": "/My-App-Music/static/js/main.febc4f7f.js.map",
+    "787.cda65a0b.chunk.js.map": "/My-App-Music/static/js/787.cda65a0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a4f0edb.css",
+    "static/js/main.febc4f7f.js"
+  ]
+}
